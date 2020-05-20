@@ -2,13 +2,13 @@ namespace ExtractRefNumber.App
 {
     public class Core
     {
+        private const int expected_len = 7;
         public static int ExtractRefNumber(string str)
         {
             if (str == "") return 0;
             
             int potential_num = 0;
             int len_counter = 0;
-            int expected_len = 7;
             
             for (int i = 0; i < str.Length; i++)
             {
@@ -28,10 +28,8 @@ namespace ExtractRefNumber.App
                 // if not digit - and we have some num as potential number and (if lencounter is greater / smaller than expected len)
                 // we are not interested in this number 
                 // as nunmber has to be equals 7 length
-                if (!char.IsDigit(_thischar) && potential_num > 0 && len_counter != expected_len)
-                {
+                if (!char.IsDigit(_thischar) && potential_num > 0 && len_counter != expected_len)                
                     len_counter = potential_num = 0;
-                }
 
                 // this satisfied our condition hence we return
                 if (potential_num > 0 && len_counter == expected_len)
