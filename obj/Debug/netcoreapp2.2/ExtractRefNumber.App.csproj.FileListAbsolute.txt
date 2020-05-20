@@ -1,0 +1,11 @@
+C:\Users\amandees\source\repos\ExtractRefNumber.App\bin\Debug\netcoreapp2.2\ExtractRefNumber.App.deps.json
+C:\Users\amandees\source\repos\ExtractRefNumber.App\bin\Debug\netcoreapp2.2\ExtractRefNumber.App.runtimeconfig.json
+C:\Users\amandees\source\repos\ExtractRefNumber.App\bin\Debug\netcoreapp2.2\ExtractRefNumber.App.runtimeconfig.dev.json
+C:\Users\amandees\source\repos\ExtractRefNumber.App\bin\Debug\netcoreapp2.2\ExtractRefNumber.App.dll
+C:\Users\amandees\source\repos\ExtractRefNumber.App\bin\Debug\netcoreapp2.2\ExtractRefNumber.App.pdb
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.csprojAssemblyReference.cache
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.csproj.CoreCompileInputs.cache
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.AssemblyInfoInputs.cache
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.AssemblyInfo.cs
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.dll
+C:\Users\amandees\source\repos\ExtractRefNumber.App\obj\Debug\netcoreapp2.2\ExtractRefNumber.App.pdb
